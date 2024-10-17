@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json";
+const url = "https://github.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/blob/Aula01/transporte/transporte-dados-globais.json ";
 
 async function visualizarInformacoesGlobais() {
     const resposta = await fetch(url);
